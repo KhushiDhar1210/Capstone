@@ -12,6 +12,10 @@ This project seeks to re-define Seasonal Colour Analysis by leveraging HEX codes
 
 • Extraction of colour recommendations from LLM’s response and keyword matching to dataset for finding best outfits.
 
+The architecture of the model is defined in the image below:
+
+![alt text](<figures/Architecture.png>)
+
 
 
 In this project, we are 
