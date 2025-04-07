@@ -21,7 +21,7 @@ Capstone/
 │   ├── Emotion_Detection.ipynb # Emotion detection from facial expressions
 │   ├── Hex_Detection.ipynb    # Skin tone extraction and HEX color generation
 │
-├── Data/                     # Sample input data 
+├── Data/                     # Sample input data consisting of Angry, Happy, Surprise, Sad and Neutral image 
 │
 ├── Figure/                
 │   ├── Architecture.png         # Model architecture
